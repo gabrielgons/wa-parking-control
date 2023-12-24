@@ -5,7 +5,7 @@
         <th v-for="header in headers" :key="header.key">
           {{ header.label }}
         </th>
-        <th>Actions</th>
+        <th>Ações</th>
       </tr>
     </thead>
     <tbody>
